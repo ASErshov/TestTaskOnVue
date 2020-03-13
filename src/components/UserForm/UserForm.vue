@@ -114,8 +114,6 @@ $heightLine: 1.5em
     bottom: $heightLine
     display: flex;
     justify-content: center;
-    button:first-child
-      margin-left: 0%
     button
       outline: none
       box-shadow: none
